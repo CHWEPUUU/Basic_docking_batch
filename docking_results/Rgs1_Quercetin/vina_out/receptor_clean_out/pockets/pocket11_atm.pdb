@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.1139
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9737
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4033
+HEADER 5  - Mean B-factor of pocket residues  : 0.6607
+HEADER 6  - Hydrophobicity Score              : -0.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 300.5480
+HEADER 10 - Pocket volume (convex hull)       : 16.5080
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2857
+ATOM   1144  OD1 ASP A  72     -21.762  15.825   0.374  0.56  4.29           O 0
+ATOM   1174   CG LEU A  74     -22.406   9.761   3.453  0.00  0.00           C 0
+ATOM   1176  CD2 LEU A  74     -21.723   8.824   2.453  0.00  0.00           C 0
+ATOM   1494   CE MET A  94     -18.496  12.291   4.155  0.00  0.00           C 0
+ATOM   1491   CB MET A  94     -18.073   9.405   2.432  0.00  0.00           C 0
+ATOM   1141    O ASP A  72     -24.760  14.046   3.209  0.34  8.57           O 0
+ATOM   1175  CD1 LEU A  74     -21.458  10.121   4.584  0.00  0.00           C 0
+ATOM   1139   CA ASP A  72     -24.302  14.680   0.938  0.00  0.00           C 0
+ATOM   1119    O LYS A  71     -23.856  12.910  -1.211  0.68  7.50           O 0
+ATOM   1231  OE1 GLU A  78     -24.958   6.988  -1.787  0.00  0.00           O 0
+ATOM   1462  ND2 ASN A  92     -20.307   6.554  -1.046  0.68  6.56           N 0
+ATOM   1463  OD1 ASN A  92     -18.540   7.654  -0.365  0.56  4.29           O 0
+ATOM   1120   CB LYS A  71     -24.068  14.223  -3.854  0.00  0.00           C 0
+ATOM   1474   CB GLN A  93     -15.563  10.869  -2.177  0.00  0.00           C 0
+ATOM   1122   CD LYS A  71     -23.264  13.453  -6.126  0.00  0.00           C 0
+ATOM   1475   CG GLN A  93     -14.514  11.925  -1.783  0.00  0.00           C 0
+ATOM   1487    N MET A  94     -16.503   9.389   0.524  0.00  0.00           N 0
+ATOM   1534  ND2 ASN A  97     -13.725  12.396   2.469  0.00  0.00           N 0
+TER
+END

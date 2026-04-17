@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0155
+HEADER 1  - Drug Score                        : 0.0056
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.1191
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5646
+HEADER 5  - Mean B-factor of pocket residues  : 0.1820
+HEADER 6  - Hydrophobicity Score              : -0.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 406.5394
+HEADER 10 - Pocket volume (convex hull)       : 21.5846
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.6818
+ATOM   1090   CE LYS A  69     -27.395  23.638   1.041  0.00  0.00           C 0
+ATOM   1089   CD LYS A  69     -28.168  23.005  -0.119  0.00  0.00           C 0
+ATOM   1091   NZ LYS A  69     -28.176  24.710   1.702  0.69  5.47           N 1
+ATOM   1029   CE MET A  65     -24.772  29.808  -2.356  0.00  0.00           C 0
+ATOM   1062   CA SER A  67     -26.691  23.665  -6.132  0.00  0.00           C 0
+ATOM   1042    O LYS A  66     -23.945  23.947  -7.009  0.00  0.00           O 0
+ATOM   1061    N SER A  67     -26.096  24.606  -7.072  0.00  0.00           N 0
+ATOM   1025    O MET A  65     -25.895  27.560  -7.525  0.00  0.00           O 0
+ATOM   1065   CB SER A  67     -28.212  23.877  -6.196  0.00  0.00           C 0
+ATOM    804   NZ LYS A  51     -32.132  31.350  -2.562  0.74  9.84           N 1
+ATOM   1088   CG LYS A  69     -27.357  21.834  -0.682  0.00  0.00           C 0
+ATOM   1072    N SER A  68     -25.320  21.657  -5.835  0.10  1.09           N 0
+ATOM   1075    O SER A  68     -24.679  19.461  -3.418  0.19  4.29           O 0
+ATOM   1074    C SER A  68     -25.521  19.897  -4.186  0.00  0.00           C 0
+ATOM   1026   CB MET A  65     -24.634  29.393  -5.782  0.00  0.00           C 0
+ATOM   1023   CA MET A  65     -23.834  28.614  -6.836  0.00  0.00           C 0
+ATOM   1027   CG MET A  65     -23.725  30.259  -4.901  0.00  0.00           C 0
+ATOM   1028   SD MET A  65     -24.601  31.136  -3.576  0.00  0.00           S 0
+ATOM   1024    C MET A  65     -24.667  27.582  -7.607  0.00  0.00           C 0
+ATOM    803   CE LYS A  51     -31.254  32.521  -2.314  0.00  0.00           C 0
+TER
+END
