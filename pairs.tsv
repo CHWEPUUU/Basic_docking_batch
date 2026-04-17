@@ -1,0 +1,5 @@
+# receptor_id	receptor_pdb	ligand_id	smiles
+# 注意：必须使用 TAB 分隔；receptor_pdb 建议写绝对路径
+Rgs1    ./receptor/Rgs1_rat.pdb Quercetin   C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O
+Rhbdl2  ./receptor/Rhbdl2_rat.pdb   Quercetin   C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O
+Tp73    ./receptor/Tp73_rat.pdb Quercetin   C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O
