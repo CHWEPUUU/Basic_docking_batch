@@ -3,4 +3,4 @@
 ## 使用
 pairs.tsv指定蛋白路径和配体SMILES
 
-run_vina_batch.sh，--box指定Fpocket预测的对接位点，默认是第一个-box 1
+run_vina_batch.sh，--box指定Fpocket预测的对接位点，默认是第一个run_vina_batch.sh --box 1
