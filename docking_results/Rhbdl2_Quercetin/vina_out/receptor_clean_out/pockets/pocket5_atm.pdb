@@ -1,0 +1,62 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : -0.0050
+HEADER 1  - Drug Score                        : 0.5706
+HEADER 2  - Number of alpha spheres           :    51
+HEADER 3  - Mean alpha-sphere radius          : 3.9111
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5942
+HEADER 5  - Mean B-factor of pocket residues  : 0.9509
+HEADER 6  - Hydrophobicity Score              : 64.7857
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.3571
+HEADER 9  - Pocket volume (Monte Carlo)       : 515.8619
+HEADER 10 - Pocket volume (convex hull)       : 85.6018
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 39.6000
+HEADER 13 - Number of apolar alpha sphere     :    45
+HEADER 14 - Proportion of apolar alpha sphere : 0.8824
+ATOM   4771   CE MET A 304      -5.189 -10.529   2.572  0.00  0.00           C 0
+ATOM   4734  CD2 PHE A 301       0.932 -11.916   1.179  0.00  0.00           C 0
+ATOM   4737   CZ PHE A 301      -0.519 -13.862   0.967  0.00  0.00           C 0
+ATOM   4736  CE2 PHE A 301       0.444 -12.997   0.422  0.00  0.00           C 0
+ATOM   4735  CE1 PHE A 301      -0.988 -13.654   2.275  0.00  0.00           C 0
+ATOM   4732   CG PHE A 301       0.465 -11.705   2.489  0.00  0.00           C 0
+ATOM   4727    N PHE A 301      -0.406  -8.665   2.742  0.45  1.09           N 0
+ATOM   4733  CD1 PHE A 301      -0.492 -12.582   3.036  0.00  0.00           C 0
+ATOM   4687    O ILE A 297       0.814  -8.826   0.009  0.50  2.14           O 0
+ATOM   4721   CA GLY A 300      -1.725  -6.905   1.640  0.00  0.00           C 0
+ATOM   4722    C GLY A 300      -1.443  -7.829   2.826  0.00  0.00           C 0
+ATOM   4335   CB MET A 274      -5.661  -7.347  -9.184  0.00  0.00           C 0
+ATOM   4287  CG1 VAL A 270      -7.208  -7.704  -4.462  0.00  0.00           C 0
+ATOM   4299   CA ALA A 271     -10.036  -7.703  -8.238  0.00  0.00           C 0
+ATOM   4336   CG MET A 274      -4.665  -8.441  -9.580  0.00  0.00           C 0
+ATOM   4285    O VAL A 270      -7.873  -6.233  -7.294  0.00  0.00           O 0
+ATOM   4302   CB ALA A 271     -11.298  -8.573  -8.264  0.00  0.00           C 0
+ATOM   4298    N ALA A 271      -9.896  -7.108  -6.912  0.00  0.00           N 0
+ATOM   4228    O ILE A 267     -12.045  -7.927  -5.291  0.53  1.07           O 0
+ATOM   4231  CG2 ILE A 267     -13.403 -10.725  -4.339  0.00  0.00           C 0
+ATOM   3836   CB PHE A 244      -9.034  -8.933   4.184  0.00  0.00           C 0
+ATOM   3837   CG PHE A 244      -9.111 -10.426   3.942  0.00  0.00           C 0
+ATOM   3839  CD2 PHE A 244     -10.099 -10.951   3.090  0.00  0.00           C 0
+ATOM   4212  CG2 ILE A 266     -10.863  -6.541   0.738  0.00  0.00           C 0
+ATOM   4685   CA ILE A 297       0.838  -8.578  -2.378  0.00  0.00           C 0
+ATOM   3736  CD1 TYR A 237      -3.097  -5.047  -2.505  0.00  0.00           C 0
+ATOM   3738  CE1 TYR A 237      -3.595  -5.293  -3.798  0.00  0.00           C 0
+ATOM   4690  CG2 ILE A 297       1.477 -11.040  -2.389  0.00  0.00           C 0
+ATOM   4226   CA ILE A 267     -12.710  -8.599  -3.105  0.00  0.00           C 0
+ATOM   4230  CG1 ILE A 267     -13.002 -10.772  -1.843  0.00  0.00           C 0
+ATOM   4286   CB VAL A 270      -8.449  -6.885  -4.079  0.00  0.00           C 0
+ATOM   4288  CG2 VAL A 270      -8.158  -6.242  -2.717  0.00  0.00           C 0
+ATOM   3797    N GLY A 241      -5.869  -5.345   3.457  0.00  0.00           N 0
+ATOM   4669    O HIS A 296      -0.247  -6.093  -1.687  0.68  1.07           O 0
+ATOM   4689  CG1 ILE A 297       0.597  -9.957  -4.495  0.00  0.00           C 0
+ATOM   4338   CE MET A 274      -2.744  -7.877  -7.575  0.00  0.00           C 0
+ATOM   3783    O MET A 240      -8.088  -5.634   3.589  0.00  0.00           O 0
+ATOM   3784   CB MET A 240      -7.117  -3.861   0.969  0.00  0.00           C 0
+ATOM   3733    O TYR A 237      -3.780  -4.142   2.003  0.00  0.00           O 0
+ATOM   3782    C MET A 240      -7.126  -4.969   3.207  0.00  0.00           C 0
+TER
+END

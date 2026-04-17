@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.1707
+HEADER 1  - Drug Score                        : 0.0074
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0994
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6360
+HEADER 5  - Mean B-factor of pocket residues  : 0.8582
+HEADER 6  - Hydrophobicity Score              : 27.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 246.4065
+HEADER 10 - Pocket volume (convex hull)       : 6.7545
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.9474
+ATOM   5133    O ILE A 326       5.662 -11.862  15.009  0.55  1.07           O 0
+ATOM   5150   CA SER A 327       3.756  -9.964  14.281  0.00  0.00           C 0
+ATOM   5193   CB ALA A 330       6.586 -12.387  11.713  0.00  0.00           C 0
+ATOM   5136  CG2 ILE A 326       3.784 -14.358  16.044  0.00  0.00           C 0
+ATOM   4785   CB SER A 305       0.697 -10.077   9.587  0.00  0.00           C 0
+ATOM   5153   CB SER A 327       2.487  -9.113  14.208  0.00  0.00           C 0
+ATOM   5149    N SER A 327       3.799 -10.720  15.537  0.00  0.00           N 0
+ATOM   5065    O ARG A 323       1.338 -10.630  17.174  0.70  2.14           O 0
+ATOM   4821  CD1 TYR A 308      -3.972 -11.828  14.023  0.00  0.00           C 0
+ATOM   4823  CE1 TYR A 308      -4.318 -12.821  14.961  0.00  0.00           C 0
+ATOM   4784    O SER A 305      -1.295  -8.747  12.065  0.67  2.14           O 0
+ATOM   4782   CA SER A 305      -0.737  -9.644   9.907  0.00  0.00           C 0
+ATOM   4841  CG2 THR A 309      -1.050  -8.942  15.651  0.00  0.00           C 0
+ATOM   5066   CB ARG A 323      -1.408 -11.740  18.494  0.00  0.00           C 0
+ATOM   5063   CA ARG A 323       0.073 -11.684  18.893  0.00  0.00           C 0
+ATOM   5067   CG ARG A 323      -2.146 -12.953  19.083  0.00  0.00           C 0
+ATOM   5137  CD1 ILE A 326       2.737 -15.151  18.910  0.00  0.00           C 0
+TER
+END
