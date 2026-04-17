@@ -1,7 +1,4 @@
 #!/bin/bash
-source /home/data/cq/.local/miniconda3/etc/profile.d/conda.sh 
-conda activate vina
-
 set -euo pipefail
 
 SCRIPT_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
