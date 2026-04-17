@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.1133
+HEADER 1  - Drug Score                        : 0.0042
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9500
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7234
+HEADER 5  - Mean B-factor of pocket residues  : 0.9622
+HEADER 6  - Hydrophobicity Score              : 44.5714
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 266.5252
+HEADER 10 - Pocket volume (convex hull)       : 9.4023
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 9.8182
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6471
+ATOM   4746    N ARG A 311      28.233  20.654  -1.794  0.51  2.19           N 0
+ATOM   4822  ND2 ASN A 315      31.201  17.899  -5.376  0.00  0.00           N 0
+ATOM   4735  CG1 VAL A 310      28.007  17.313  -1.287  0.00  0.00           C 0
+ATOM   4749    O ARG A 311      29.304  19.818  -4.394  0.00  0.00           O 0
+ATOM   4889   CG LEU A 319      29.889  12.888   0.226  0.00  0.00           C 0
+ATOM   4819    O ASN A 315      28.617  13.515  -2.786  0.00  0.00           O 0
+ATOM   4823  OD1 ASN A 315      31.704  15.840  -5.878  0.43  6.43           O 0
+ATOM   4871  CG2 ILE A 318      31.063   9.607  -3.539  0.00  0.00           C 0
+ATOM   4731   CA VAL A 310      27.500  19.337   0.130  0.00  0.00           C 0
+ATOM   4716    O HIS A 309      28.604  20.466   2.471  0.00  0.00           O 0
+ATOM   4736  CG2 VAL A 310      27.437  16.984   1.108  0.00  0.00           C 0
+ATOM   4820   CB ASN A 315      29.866  16.148  -4.361  0.00  0.00           C 0
+ATOM   4890  CD1 LEU A 319      29.888  14.400   0.443  0.00  0.00           C 0
+ATOM   4702   SD MET A 308      30.238  16.136   4.879  0.00  0.00           S 0
+ATOM   4821   CG ASN A 315      30.994  16.609  -5.263  0.00  0.00           C 0
+ATOM   4817   CA ASN A 315      29.287  14.768  -4.726  0.00  0.00           C 0
+ATOM   4872  CD1 ILE A 318      31.066  10.880  -6.443  0.00  0.00           C 0
+ATOM   4869   CB ILE A 318      29.862  10.275  -4.241  0.00  0.00           C 0
+TER
+END

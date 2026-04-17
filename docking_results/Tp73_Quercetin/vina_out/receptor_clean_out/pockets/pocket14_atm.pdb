@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0186
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8035
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6340
+HEADER 5  - Mean B-factor of pocket residues  : 0.0906
+HEADER 6  - Hydrophobicity Score              : 10.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 274.6788
+HEADER 10 - Pocket volume (convex hull)       : 12.6500
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5556
+ATOM   7751   CB GLN A 510       8.763 -21.747 -18.599  0.00  0.00           C 0
+ATOM   7771  CD2 LEU A 511      15.114 -22.880 -18.035  0.00  0.00           C 0
+ATOM   7749    C GLN A 510      10.360 -21.839 -16.616  0.00  0.00           C 0
+ATOM   7750    O GLN A 510      10.219 -22.912 -16.025  0.59  2.14           O 0
+ATOM   7753   CD GLN A 510       6.686 -22.316 -20.011  0.00  0.00           C 0
+ATOM   7704   CB ASP A 506       7.332 -17.291 -22.644  0.00  0.00           C 0
+ATOM   7755  OE1 GLN A 510       7.199 -23.368 -20.350  0.00  0.00           O 0
+ATOM   7754  NE2 GLN A 510       5.494 -22.023 -20.478  0.00  0.00           N 0
+ATOM   7769   CG LEU A 511      14.449 -21.497 -18.075  0.00  0.00           C 0
+ATOM   7717   SG CYS A 507      13.895 -19.601 -21.948  0.00  0.00           S 0
+ATOM   7715    O CYS A 507      12.362 -18.824 -18.932  0.58  1.07           O 0
+ATOM   7764    N LEU A 511      11.546 -21.216 -16.634  0.00  0.00           N 0
+ATOM   7831   OG SER A 514       9.655 -28.871 -16.393  0.74  8.57           O 0
+ATOM   7830   CB SER A 514      11.037 -28.608 -16.264  0.00  0.00           C 0
+ATOM   7805    O ARG A 513       9.048 -26.724 -15.002  0.48  4.29           O 0
+ATOM   7712    N CYS A 507      10.383 -17.637 -21.633  0.70  3.28           N 0
+ATOM   7713   CA CYS A 507      11.526 -18.436 -21.175  0.00  0.00           C 0
+ATOM   7703    O ASP A 506       9.061 -18.206 -19.915  0.00  0.00           O 0
+ATOM   7702    C ASP A 506       9.220 -17.587 -20.972  0.00  0.00           C 0
+TER
+END

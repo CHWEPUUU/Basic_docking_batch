@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0129
+HEADER 1  - Drug Score                        : 0.0138
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.8901
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6770
+HEADER 5  - Mean B-factor of pocket residues  : 0.7261
+HEADER 6  - Hydrophobicity Score              : 11.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 329.2727
+HEADER 10 - Pocket volume (convex hull)       : 24.5801
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.6400
+ATOM   5278   CB GLN A 342      38.874 -15.153   6.850  0.00  0.00           C 0
+ATOM   5349  NE2 GLN A 346      40.575 -18.979   4.377  0.00  0.00           N 0
+ATOM   5347   CG GLN A 346      41.947 -17.548   2.943  0.00  0.00           C 0
+ATOM   5279   CG GLN A 342      39.229 -14.938   8.329  0.00  0.00           C 0
+ATOM   5282  OE1 GLN A 342      38.751 -17.267   8.745  0.57  7.50           O 0
+ATOM   5333  OE1 GLN A 345      43.789 -12.378   7.300  0.55  2.14           O 0
+ATOM   5277    O GLN A 342      40.406 -14.721   3.934  0.69  1.07           O 0
+ATOM   5331   CD GLN A 345      44.679 -12.116   6.511  0.00  0.00           C 0
+ATOM   5401  CD1 LEU A 349      47.361 -14.067   3.132  0.00  0.00           C 0
+ATOM   5332  NE2 GLN A 345      45.793 -11.595   6.975  0.00  0.00           N 0
+ATOM   5402  CD2 LEU A 349      48.637 -16.162   3.370  0.00  0.00           C 0
+ATOM   5329   CB GLN A 345      43.101 -12.405   4.528  0.00  0.00           C 0
+ATOM   5330   CG GLN A 345      44.559 -12.362   5.008  0.00  0.00           C 0
+ATOM   5342    N GLN A 346      42.654 -14.624   2.138  0.00  0.00           N 0
+ATOM   5346   CB GLN A 346      41.883 -16.888   1.557  0.00  0.00           C 0
+ATOM   5350  OE1 GLN A 346      40.136 -18.983   2.242  0.59  7.50           O 0
+ATOM   5421  NE2 GLN A 350      43.230 -18.445  -2.592  0.52  5.47           N 0
+ATOM   5275   CA GLN A 342      39.353 -14.001   5.958  0.00  0.00           C 0
+ATOM   5343   CA GLN A 346      42.969 -15.823   1.346  0.00  0.00           C 0
+ATOM   5399   CB LEU A 349      47.674 -15.589   1.111  0.00  0.00           C 0
+ATOM   5327    C GLN A 345      43.485 -13.584   2.270  0.00  0.00           C 0
+ATOM   5345    O GLN A 346      43.923 -16.192  -0.823  0.62  1.07           O 0
+ATOM   5419   CG GLN A 350      45.625 -18.317  -2.981  0.00  0.00           C 0
+TER
+END
